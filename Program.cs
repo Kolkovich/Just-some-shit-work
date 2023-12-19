@@ -8,6 +8,7 @@ namespace WordOfDay
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Текущий язык: "+def);
             string PP = Path.GetFullPath("WordOfDay.sln") + @"\dir";
             Console.WriteLine(PP);
             if (!Directory.Exists(PP))
