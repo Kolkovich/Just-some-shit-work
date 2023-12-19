@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\WordOfDay\bin\Debug\net7.0\WordOfDay.exe
+C:\Users\1\source\repos\WordOfDay\bin\Debug\net7.0\WordOfDay.deps.json
+C:\Users\1\source\repos\WordOfDay\bin\Debug\net7.0\WordOfDay.runtimeconfig.json
+C:\Users\1\source\repos\WordOfDay\bin\Debug\net7.0\WordOfDay.dll
+C:\Users\1\source\repos\WordOfDay\bin\Debug\net7.0\WordOfDay.pdb
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.AssemblyInfo.cs
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.dll
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\refint\WordOfDay.dll
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.pdb
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\WordOfDay.genruntimeconfig.cache
+C:\Users\1\source\repos\WordOfDay\obj\Debug\net7.0\ref\WordOfDay.dll
